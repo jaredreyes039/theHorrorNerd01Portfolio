@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.landingHead{
+    position: absolute;
+    color: white;
+    left: 10%;
+    top: 10%;
+    font-family: 'Special Elite', cursive;
+    letter-spacing: 0.75vw;
+    font-size: 4vw;
+    animation: fadeIn 4s;
+    opacity: 0;
+}
+
+.landingFoot{
+    position: absolute;
+    color: white;
+    left: 10%;
+    top: 90%;
+    font-family: 'Special Elite', cursive;
+    letter-spacing: 0.75vw;
+    font-size: 4vw;
+    animation: fadeIn 4s;
+    opacity: 0;
+}
+
+p{
+    font-size: 4vw !important; 
+    animation: fadeIn 4s;
+}
+
